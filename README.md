@@ -17,3 +17,6 @@
  - Scan the QR code 
  
  The app will open on your phone
+
+Here is the link the the demo used at HackHer413 to win the sustainability hack!
+https://dashboard.hackher413.com/projects/21 
